@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-A machine learning project to predict customer churn in the telecom sector using **Logistic Regression**, **Random Forest**, and **Support Vector Machine (SVM)**.
+A machine learning project to predict customer churn in the telecom industry using **Logistic Regression**, **Random Forest**, and **Support Vector Machine (SVM)**.
 ---
 
 ## Table of Contents
