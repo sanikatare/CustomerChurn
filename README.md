@@ -87,7 +87,7 @@ churn-prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/churn-prediction.git
+git clone https://github.com/sanikatare/churn-prediction.git
 cd churn-prediction
 ```
 
